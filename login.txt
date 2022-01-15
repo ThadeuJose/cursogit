@@ -1,3 +1,4 @@
 consulta web service 
 loga
 codigo limpo
+salva na tabela 
